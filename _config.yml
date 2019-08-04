@@ -1,12 +1,12 @@
 
-title: MarsIdiot的个人网站title  #网站名称。
-email: your-email@example.com description: >- # this means to ignore newlines until "baseurl:"
-description: MarsIdiot的个人网站，展示一些个人作品集、读书笔记等。   #网站说明。
+ title: MarsIdiot的个人网站title  #网站名称。
+#email: your-email@example.com description: >- # this means to ignore newlines until "baseurl:"
+ description: MarsIdiot的个人网站，展示一些个人作品集、读书笔记等。   #网站说明。
 
 
 
- baseurl: ""  # the subpath of your site, e.g. /blog
- url: "" # the base hostname & protocol for your site, e.g. http://example.com
+ baseurl:  '/blog'    # the subpath of your site, e.g. /blog
+ url: 'http://example.com '   # the base hostname & protocol for your site, e.g. http://example.com
  twitter_username: jekyllrb
  github_username:  jekyll
 
